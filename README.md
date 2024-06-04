@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do kaue````😁
+## Bem-vindo(a) ao perfil do kaue😁
 
  <div>
    <a href="https://github.com/devemdobro">
